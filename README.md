@@ -1,4 +1,4 @@
-# Project 2 - J.A.S.I.S. - Just A Somewhat Intelligent System
+# Project 2 - J.A.R.F.I.S - Just A Random Fine Intelligent System
 
 ## Overview
 Evaluation to determine which of the following three models yields the best predictive result when analyzing historical stock data.
@@ -10,7 +10,7 @@ The key takeaway is that it is extremely difficult to predict stock returns.
 
 ### Files
 
-* [Analysis Plots](Analysis_plots.ipynb) 
+* [Analysis Plots](Final_Project/Analysis_plots.ipynb) 
 * [Decision Tree & Sampling](Decision_Tree_Sampling.ipynb)
 * [Neural Network Stock Predictions](Neural_Network_Stock_Predictions.ipynb) 
 * [stock_predictions_final](stock_predictions_final.ipynb)
