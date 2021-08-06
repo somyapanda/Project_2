@@ -4,17 +4,23 @@
 Evaluation to determine which of the following three models yields the best predictive result when analyzing historical stock data.
 
 * Neural Network
-  ○ A LSTM RNN model to predict entry and exit points that might generate profitable trades
-  ○ Sequential model with four layers
+ 
+  * A LSTM RNN model to predict entry and exit points that might generate profitable trades
+  
+  * Sequential model with four layers
 
 * Time-Series
-  ○ Univariate time series modelling using ARIMA to forecast closing stock price.
-  ○ Multivariate time series modelling with correlated assets and sentiment scores as dependent
+
+  * Univariate time series modelling using ARIMA to forecast closing stock price.
+  
+  * Multivariate time series modelling with correlated assets and sentiment scores as dependent
 variables using ARIMA.
 
 * Decision Tree and Random Sampling 
-  ○ Create a decision tree model to determine entry & exit point of the selected public equity
-  ○ Determine the precision through multiple random sampling model
+
+  * Create a decision tree model to determine entry & exit point of the selected public equity
+  
+  * Determine the precision through multiple random sampling model
 
 The key takeaway is that it is extremely difficult to predict stock returns.  
 
