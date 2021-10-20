@@ -1,4 +1,4 @@
-# Stock Price Predictions
+# Project-2: Stock Price Predictions
 
 ## Overview
 Evaluation to determine which of the following three models yields the best predictive result when analyzing historical stock data.
